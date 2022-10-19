@@ -1,5 +1,5 @@
 body {
-    color: #33A;
+    color: #333;
     text-align: left;
     font-family: Arial;
     font-size: 16px;
@@ -36,5 +36,5 @@ body {
 
 #post h1 {
     font-size: 20px;
-    color: #333;
+    color: #33A;
 }
