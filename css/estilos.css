@@ -6,9 +6,9 @@ body {
     text-align: left;
     font-family: Arial;
     font-size: 16px;
-    margin-top: 1em;
     padding: 0;
-    background-color: #222;
+    margin: 0;
+    background-color: #fff;
     min-height: 100vh;
 }
 
@@ -26,6 +26,7 @@ main {
     text-align: left;
     margin: 0 auto;
     background-color: #fff;
+    border: 1px solid #17f;
 }
 
 #cabecera {
@@ -52,7 +53,7 @@ main {
 
 #post h1 {
     font-size: 20px;
-    color: #33A;
+    color: #17f;
 }
 
 footer {
@@ -62,7 +63,7 @@ footer {
     justify-content: center;
     align-items: center;
     height: 3em;
-    background-color: #33A;
+    background-color: #17f;
 }
 
 footer h2 {
